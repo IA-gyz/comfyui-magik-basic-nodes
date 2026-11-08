@@ -1,0 +1,16 @@
+[project]
+name = "comfyui-magik-basic-nodes"
+version = "1.0.0"
+description = 'Magik Basic Nodes'
+authors = [{name = "IA-gyz"}]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/IA-gyz/comfyui-magik-basic-nodes"
+
+[tool.comfy]
+PublisherId = "IA-gyz"
+DisplayName = "Magik Basic Nodes"
